@@ -22,14 +22,13 @@ Editable content lives in:
 - `src/content/experience.js` — vertical journey records and editable summaries
 - `src/content/direction.js` — current direction and compass labels
 
-Poster and image assets belong in `public/assets`. The paper texture and hero crop live in `public/assets/editorial`; the restrained cat, vine and compass details live in `public/assets/painted`. Empty URLs are intentionally hidden from the interface. Unconfirmed bracketed contribution and experience text is also hidden until it is replaced with Master CV wording.
+Poster and image assets belong in `public/assets`. The paper texture and hero crop live in `public/assets/editorial`; the cat and compass details live in `public/assets/painted`. Empty URLs are intentionally hidden from the interface. Unconfirmed bracketed contribution and experience text is also hidden until it is replaced with Master CV wording.
 
 ## Interaction notes
 
 - Project carousel: side previews, buttons, arrow keys, pagination dots, touch swipes and poster lightbox
 - Capability deck: stacked, spread and card-selection states
 - Reverse-chronological experience timeline with progressive scroll reveal
-- Compass: scroll-linked exploration and settled direction
 - One painted orange cat reused across the page, with a reduced-motion static alternative
 - Mobile navigation and responsive layouts at mobile, tablet and desktop widths
 
