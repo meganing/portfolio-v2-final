@@ -87,7 +87,6 @@ h1 em, h2 em { color: var(--petrol); font-style: normal; }
 .project-copy > p:not(.project-meta):not(.project-award):not(.contribution) { color: var(--muted); }
 .project-award { display: inline-flex; align-items: center; gap: 6px; margin: -3px 0 13px; padding: 6px 10px; border: 1px solid rgba(20, 39, 45, .4); border-radius: 999px; color: var(--petrol); background: rgba(233, 199, 88, .34); font: 600 .68rem/1.2 var(--mono); }
 .project-award span { color: #a66d00; }
-.award-detail { margin: 12px 0 0; font-size: .78rem; line-height: 1.45; }
 .project-card--text .project-copy > p { color: currentColor !important; opacity: .9; }
 .contribution { margin: 18px 0; padding-top: 15px; border-top: 1px solid rgba(20, 39, 45, .24); color: var(--muted); font-size: .83rem; }
 .contribution strong { display: block; margin-bottom: 3px; color: inherit; }
