@@ -3,8 +3,7 @@ export const projects = [
   {
     title: 'Sonar Audiobooks',
     summary: 'A Thai AI audiobook experience designed to make reading more accessible for visually impaired users.',
-    award: 'First Prize · Beyond Green 2025',
-    awardDetail: 'Won first prize at the Beyond Green: AI for a Thriving Future Pitch Competition 2025, organized by UNESCO and ETDA.',
+    award: 'Winner · Beyond Green AI Pitch 2025',
     contribution: 'Researched, compared, tuned, and integrated an existing Thai OCR pipeline; developed YOLOv8/OpenCV book tracking with real-time alignment guidance and voice feedback.',
     technologies: ['Accessibility', 'OCR', 'Computer Vision'],
     poster: 'public/assets/sonar-poster.png', posterAlt: 'Sonar Audiobooks project poster', posterUrl: '', githubUrl: '', demoUrl: 'https://sonaraudiobooks.com/', tone: 'teal', order: 1
